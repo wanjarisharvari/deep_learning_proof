@@ -11,3 +11,5 @@ Optimizer Dynamics: Understanding how SGD, Momentum, and Adam differ in converge
 Initialization Sensitivity: Investigating how starting from different points in the weight landscape affects final outcomes.
 
 Functional Inductive Bias: Analyzing how different activation functions (ReLU vs. Tanh) approximate a complex nonlinear target.
+
+The solution was greater than 25MB So the file link for kaggle can be found here : https://www.kaggle.com/code/sharvaiwanjari/22cs30049-assignment-1
